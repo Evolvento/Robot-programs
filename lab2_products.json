@@ -1,0 +1,11 @@
+{
+    "products": [
+        {"key": 0, "name": "Морковь", "count": 10, "price": 10},
+        {"key": 1, "name": "Картошка", "count": 30, "price": 15},
+        {"key": 2, "name": "Яблоки", "count": 110, "price": 70},
+        {"key": 3, "name": "Груши", "count": 150, "price": 100},
+        {"key": 4, "name": "Помидоры", "count": 40, "price": 40},
+        {"key": 5, "name": "Огурцы", "count": 200, "price": 30},
+        {"key": 6, "name": "Лук", "count": 10, "price": 5}
+    ]
+}
