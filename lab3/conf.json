@@ -1,0 +1,10 @@
+{
+    "yandex_email": "NiZel145@yandex.ru",
+    "yandex_password": "nieifhfonrggdbtd",
+    "SMTP_server": "smtp.yandex.ru",
+    "SMTP_port": 587,
+    "IMAP_server": "imap.yandex.ru",
+    "IMAP_port": 993,
+    "folder_for_attachments": "./attachments",
+    "subject": "Practice"
+}
